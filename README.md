@@ -1,2 +1,2 @@
 # my-new-project
-Builiding AI course pproject
+Builiding AI course project
